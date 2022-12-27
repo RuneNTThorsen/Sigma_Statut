@@ -5,7 +5,7 @@ Dette offentlige repository indeholder vedtægterne for foreningen Sigma.
 Se https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 for en guide til at lave pull requests.
 
-Alle pull requests (altså ændringsforslag) bør medfølges af eventuel argumentation, navn og dato samt kort beskrivelse (herunder også inklusiv hvilken type ændringsforslag, der er tale om - altså om det er en ændring, en tilføjelse eller en fjernelse). Dette gøres vha. pull requestets emnefelt samt udvidede beskrivelsesfelt.
+Alle pull requests (altså ændringsforslag) bør medfølges af eventuel argumentation, navn og kort beskrivelse (herunder også inklusiv hvilken type ændringsforslag, der er tale om - altså om det er en ændring, en tilføjelse eller en fjernelse) - eventuelt også dato. Dette gøres vha. pull requestets emnefelt samt udvidede beskrivelsesfelt.
 
 Alle ændringsforslag vil anses som værende gyldige, såfremt disse er fremkommet inden 2 uger inden næste generalforsamling.
 
