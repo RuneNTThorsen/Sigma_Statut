@@ -3,7 +3,7 @@ Dette offentlige repository indeholder vedtægterne for foreningen Sigma.
 
 Ændringsforslag kan til statutten kan indsendes her som pull requests.
 Se https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
-for at en guide til at lave pull requests.
+for en guide til at lave pull requests.
 
 Alle pull requests (altså ændringsforslag) bør medfølges af eventuel argumentation, navn og dato samt kort beskrivelse (herunder også inklusiv hvilken type ændringsforslag, der er tale om - altså om det er en ændring, en tilføjelse eller en fjernelse). Dette gøres vha. pull requestets emnefelt samt udvidede beskrivelsesfelt.
 
